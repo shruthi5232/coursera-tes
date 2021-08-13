@@ -1,2 +1,3 @@
-# coursera-tes
+# coursera-te
 coursera test repository
+temples
