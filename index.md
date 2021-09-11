@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+WELCOME to my page 
 
-You can use the [editor on GitHub](https://github.com/shruthi5232/coursera-te/edit/gh-pages/index.md) 
+You can use the(https://github.com/shruthi5232/coursera-te/edit/gh-pages/index.md) 
 
 sensors for forest fires
  ABSTRACT:
@@ -11,3 +11,4 @@ The study analyses and concludes practical measures to combat forest fires .  Th
  People keeps on individual vigilant and create morale ethics towards the flourishing nature’s worthy rewards. 
 I have completed, a CERTIFIED course on RPA automation.
  I conclude that the innovation would play a significant role in futuremore of the technological growth in future.
+  by shruthi.K
